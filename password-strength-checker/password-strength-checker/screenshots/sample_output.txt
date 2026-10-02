@@ -1,0 +1,30 @@
+PASSWORD STRENGTH CHECKER - SAMPLE OUTPUT
+
+=======================================================
+          PASSWORD STRENGTH CHECKER
+=======================================================
+
+Enter password: ********
+
+=======================================================
+             PASSWORD SECURITY VALIDATOR
+=======================================================
+
+Password Length        : 14 characters
+
+Policy Checks:
+  Minimum Length (12+)  : PASS
+  Uppercase             : PASS
+  Lowercase             : PASS
+  Digit                 : PASS
+  Special Character     : PASS
+
+Dictionary Leak Check  : NOT FOUND
+Estimated Entropy      : 91.79 bits
+Policy Compliance      : PASS
+Strength Classification : EXCEPTIONAL
+
+Actionable Feedback:
+  - Good password! Keep it unique and never reuse it.
+
+=======================================================
